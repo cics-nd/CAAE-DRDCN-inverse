@@ -16,7 +16,8 @@ See [Mo et al. (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2
 ```
 @article{doi:10.1029/2019WR026082,
 author = {Mo, Shaoxing and Zabaras, Nicholas and Shi, Xiaoqing and Wu, Jichun},
-title = {Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian hydraulic conductivities},
+title = {Integration of adversarial autoencoders with residual dense convolutional networks for estimation of 
+non-Gaussian hydraulic conductivities},
 journal = {Water Resources Research},
 volume = {n/a},
 number = {n/a},
@@ -27,7 +28,9 @@ url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026082}
 ```
 or:
 ```
-Mo, S., Zabaras, N., Shi, X., & Wu, J. ( 2020). Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non‐Gaussian hydraulic conductivities. Water Resources Research, 56, e2019WR026082. https://doi.org/10.1029/2019WR026082
+Mo, S., Zabaras, N., Shi, X., & Wu, J. ( 2020). Integration of adversarial autoencoders with residual dense 
+convolutional networks for estimation of non‐Gaussian hydraulic conductivities. Water Resources Research, 
+56, e2019WR026082. https://doi.org/10.1029/2019WR026082
 ```
 
 # Questions
