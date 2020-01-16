@@ -1,5 +1,7 @@
 ## Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian conductivities
 
+## We have now uploaded the codes of CAAE. The codes of DRDCN will be uploaded soon.
+
 [Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian conductivities](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026082)
 
 [Shaoxing Mo](https://scholar.google.com/citations?hl=en&user=G6ac1xUAAAAJ&view_op=list_works&gmla=AJsN-F4ses_YhFsF-w2sFZLhacR7vrVyN1272g_B7XQyGbYsvy_6ReJpe4ChndNy_cFQ7UqXCSi82UiLjMB2dKyqSj8x5DaPRg), [Nicholas Zabaras](https://www.zabaras.com/), [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra), Jichun Wu
