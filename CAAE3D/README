@@ -1,0 +1,3 @@
+In training/test data directory, K1.mat contains the data for the original Dx180x150 (D=105 or 15) training image, the training images in Ki.mat (i=2, 3, 4) are obtained by flipping the original training image along three dimensions via the flip operation implemented in MATLAB
+
+Run gen_save_data.py to generate the log-K realizations via cropping the training images
