@@ -1,0 +1,3 @@
+1. Generate the binary fields using SNESIM (LINUX version)
+2. Run KLE.m to populate each facies with log-conductivity values from two independently generated Gaussian random fields
+3. Run read_logK.py to read the logK realizations and save the data
