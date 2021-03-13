@@ -1,6 +1,6 @@
 ## Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian conductivities
 
-## Update (2021-3-13): We have now uploaded the codes of 3D-DRDCN. For 2D problems, one can replace the 3D opterations (e.g., convolution and batchnorm) with their 2D counterparts in net design file (i.e. rrde_ed3D).
+## Update (2021-3-13): We have now uploaded the codes of 3D-DRDCN. For 2D problems, one can replace the 3D opterations (e.g., convolution and batchnorm) with their 2D counterparts in net design file (i.e. rrde_ed3D.py).
 
 [Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian conductivities](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026082)
 
