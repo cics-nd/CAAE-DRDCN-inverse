@@ -1,6 +1,6 @@
 ## Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian conductivities
 
-## We have now uploaded the codes of CAAE. The codes of DRDCN will be uploaded soon.
+## Update (2021-3-13): We have now uploaded the codes of 3D-DRDCN. For 2D problems, one can replace the 3D opterations (e.g., convolution and batchnorm) with their 2D counterparts in net design file (i.e. rrde_ed3D).
 
 [Integration of adversarial autoencoders with residual dense convolutional networks for estimation of non-Gaussian conductivities](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026082)
 
@@ -21,8 +21,8 @@ author = {Mo, Shaoxing and Zabaras, Nicholas and Shi, Xiaoqing and Wu, Jichun},
 title = {Integration of adversarial autoencoders with residual dense convolutional networks for estimation of 
 non-Gaussian hydraulic conductivities},
 journal = {Water Resources Research},
-volume = {n/a},
-number = {n/a},
+volume = {56},
+number = {},
 pages = {e2019WR026082},
 doi = {10.1029/2019WR026082},
 url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR026082}
